@@ -9,3 +9,7 @@ this is a prototype flight controller for the rocket am building
 <img width="960" height="540" alt="3D view" src="https://github.com/user-attachments/assets/b5802fce-57ac-4a1c-8fdd-51229b123d42" />
 <img width="544" height="227" alt="3 3V buck" src="https://github.com/user-attachments/assets/c3b0395e-9c2e-40f2-b46f-9442c7c2f13c" />
 <img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/44f63cb8-7490-4196-8dcc-f7cac1a32025" />
+
+Shipping price
+<img width="960" height="540" alt="shipping details 2" src="https://github.com/user-attachments/assets/615ff7f2-498f-4c5b-9207-1262463a7ce8" />
+<img width="960" height="540" alt="shipping details 1" src="https://github.com/user-attachments/assets/146cae69-923a-421a-9a4e-7d0872b45022" />
